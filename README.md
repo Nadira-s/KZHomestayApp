@@ -15,6 +15,8 @@ The project focuses on modern iOS development using **SwiftUI**, **SwiftData**, 
 - Pull-to-refresh support
 - Swipe left to **delete listings**
 - Empty and loading states
+- ![Home Screen](Sreenshots/home.png)
+
 
 ### ➕ Add Listing
 - Create new listings with:
@@ -23,6 +25,7 @@ The project focuses on modern iOS development using **SwiftUI**, **SwiftData**, 
   - Images
   - Host information
 - Data persistence using **SwiftData**
+- ![Listing Screen](Sreenshots/list_desc.png)
 
 ### 🗺️ Map View
 - Interactive map showing all listings
@@ -31,11 +34,13 @@ The project focuses on modern iOS development using **SwiftUI**, **SwiftData**, 
   - Center the map on the selected home
   - Open listing details in a modal sheet
 - Automatic region adjustment based on listings
+  - ![Map Screen](Sreenshots/map.png)
 
 ### 👤 Host Profile
 - View host information
 - See all homes created by a host
 - Navigate to detailed listing pages
+- ![Profile Screen](Sreenshots/host_profile.png)
 
 ---
 
