@@ -15,7 +15,7 @@ The project focuses on modern iOS development using **SwiftUI**, **SwiftData**, 
 - Pull-to-refresh support
 - Swipe left to **delete listings**
 - Empty and loading states
-- ![Home Screen](DemoVersion/Screenshots'/home.png)
+- ![Home Screen](Screenshots'home.png)
 
 
 ### ➕ Add Listing
